@@ -10,7 +10,7 @@ require (
 	github.com/goreleaser/goreleaser v1.18.2
 	github.com/naveensrinivasan/stunning-tribble v0.4.2
 	github.com/onsi/ginkgo/v2 v2.9.7
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
